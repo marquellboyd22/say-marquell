@@ -1,0 +1,4 @@
+2.6.1 :026 > pharse = " hello marquell"
+ => " hello marquell" 
+2.6.1 :027 > pharse
+ => " hello marquell" 
